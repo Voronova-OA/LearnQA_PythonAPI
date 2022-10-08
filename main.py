@@ -3,4 +3,4 @@ import requests
 print("Hello from Olga")
 
 response = requests.get("https://playground.learnqa.ru/api/get_text")
-print(response.text)ss
+print(response.text)
